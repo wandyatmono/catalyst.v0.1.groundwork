@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   width="800"
+   height="800"
+   sodipodi:docname="foss.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="731"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.31483129"
+     inkscape:cx="252.5162"
+     inkscape:cy="736.90261"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0" />
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3da638;fill-opacity:1;fill-rule:nonzero;stroke:#1c511c;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="m 399.9844,57.07512 c -195.193,0 -353.4063,158.24451 -353.4063,353.4375 0,149.20688 92.4436,276.81499 223.1875,328.65625 l 86.0313,-220.96875 c -42.3667,-17.39345 -72.1875,-59.04403 -72.1875,-107.6875 0,-64.28399 52.091,-116.40625 116.375,-116.40625 64.284,0 116.4062,52.12226 116.4062,116.40625 0,48.61884 -29.815,90.24706 -72.1562,107.65625 l 86,220.96875 c 130.7325,-51.85087 223.1875,-179.4325 223.1875,-328.625 0,-195.19299 -158.2445,-353.4375 -353.4375,-353.4375 z"
+     id="path2987"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3787"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       id="flowRegion3789"><rect
+         id="rect3791"
+         width="613.09161"
+         height="421.64294"
+         x="-1018.7805"
+         y="760.12384" /></flowRegion><flowPara
+       id="flowPara3793"
+       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     d="m 862.76931,1034.6388 c -10.95615,0 -19.875,8.8876 -19.875,19.8438 0,10.9561 8.91885,19.8749 19.875,19.875 10.95615,0 19.84375,-8.9189 19.84375,-19.875 0,-10.9562 -8.8876,-19.8438 -19.84375,-19.8438 z m 0,2 c 9.87527,0 17.84375,7.9685 17.84375,17.8438 0,9.8752 -7.96848,17.875 -17.84375,17.875 -9.87527,0 -17.875,-7.9998 -17.875,-17.875 0,-9.8753 7.99973,-17.8438 17.875,-17.8438 z"
+     id="path3799"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="852.80042"
+     y="1066.5004"
+     id="text3801"><tspan
+       sodipodi:role="line"
+       id="tspan3803"
+       x="852.80042"
+       y="1066.5004"
+       style="font-size:34.328px;line-height:1.25">R</tspan></text>
+</svg>
