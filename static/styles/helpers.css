@@ -1,0 +1,103 @@
+/*
+Alignment
+*/
+.central {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.middle {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.center {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.right {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+.left {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+/*
+Hide and Show
+*/
+@media only screen and (max-width: 767px) {
+  .hide.s {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .hide.m {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .hide.l {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  .hide.xl {
+    display: none !important;
+  }
+}
+.hide-all {
+  display: none !important;
+}
+@media only screen and (max-width: 767px) {
+  .show.s {
+    display: inline !important;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .show.m {
+    display: block !important;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .show.l {
+    display: block !important;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  .show.xl {
+    display: block !important;
+  }
+}
+/*
+Level
+*/
+.level-1 {
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 1);
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 1);
+}
+.level-2 {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.9);
+}
+.level-3 {
+  box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.8);
+}
+.level-4 {
+  box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.7);
+}
+.level-5 {
+  box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.5);
+}

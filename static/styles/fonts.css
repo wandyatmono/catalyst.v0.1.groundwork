@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  src:  url('../fonts/ubuntu/ubuntu-regular-webfont.ttf') format('truetype'),
+        url('../fonts/ubuntu/ubuntu-regular-webfont.woff') format('woff'),
+        url('../fonts/ubuntu-regular-webfont.woff2') format('woff2');
+}
+body {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, segoe ui, Roboto,
+  helvetica neue, Arial, noto sans, sans-serif, apple color emoji,
+  segoe ui emoji, segoe ui symbol, noto color emoji;
+}
+.lighter {
+  font-family: Ubuntu;
+  font-weight: lighter;
+}
+.normal {
+  font-family: Ubuntu;
+  font-weight: normal;
+}
+.bolder {
+  font-family: Ubuntu;
+  font-weight: bolder;
+}
+.bold {
+  font-family: Ubuntu-bold;
+  font-weight: bold;
+}
